@@ -1,0 +1,32 @@
+- - - - - - - - - - - - - - - - - - -
+LISTA DE ALUMNOS
+- - - - - - - - - - - - - - - - - - -
+ALUMNO 1:
+TIPO DE APODERADO: padre
+NOMBRE DEL APODERADO: Jose
+APELLIDO DE APODERADO: Prado
+CODIGO DE APODERADO: 1 
+NOMBRE ALUMNO: Manuel
+APELLIDO ALUMNO: Prado
+CODIGO ALUMNO: 1
+GRADO ALUMNO: 1
+CURSOS: 
+	Matematica | Promedio: 20
+	Comunicacion | Promedio: 10
+	Arte | Promedio: 15
+	Educacion_Fisica | Promedio 0
+
+- - - - - - - - - - - - - - - - - - -
+LISTA DE PROFESORES
+- - - - - - - - - - - - - - - - - - -
+Profesor 1:
+NOMBRE PROFESOR: Juan
+APELLIDO PROFESOR: Ramirez
+CODIGO PROFESOR: 1
+AREA: Matematica
+
+Profesor 2:
+NOMBRE PROFESOR: Alberto
+APELLIDO PROFESOR: Pilares
+CODIGO PROFESOR: 2
+AREA: Arte
